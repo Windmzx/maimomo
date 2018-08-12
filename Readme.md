@@ -5,4 +5,9 @@
 并且在我的案例下，周围很多朋友都开始用这个软件。但是这个软件单词是需要花钱买的。每天分享可以增加20个单词的上限，因为我写了这个项目来帮助我们刷单词上限。遗憾的是分享链接是加密的，不能自动化的刷。
 
 
-两个文件夹 一个是安卓 一个是flask的web应用。web的用了https://github.com/Macr0phag3/MoMo的代码
+两个文件夹 一个是安卓 一个是flask的web应用。web的用了[Github](https://github.com/Macr0phag3/MoMo)的代码
+
+
+花了几个小时写的，不论是ui还是代码质量都没有测试，请谅解。
+截图
+![](https://mzxstatic.oss-cn-beijing.aliyuncs.com/18-8-12/21298285.jpg)
